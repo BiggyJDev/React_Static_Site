@@ -17,3 +17,6 @@ So how did I make this Static Page
 4. Start Styling - First I started with the Header and Footer
 5. Finish Styling - Work on the main content
 6. Project Complete
+
+
+Please note no links will work in the nav bar. This project is to soley show how I can use basic JSX in React with CSS
